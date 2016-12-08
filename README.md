@@ -20,7 +20,7 @@ Various selectors removed from Twitter Bootstrap stylesheet to reduce page load 
 Main motive is to create a faster loading CSS file. The overhead on a slower computer was bogging down my editor. I use Bluefish on a 64 Linux Mint Intel i3 with 4GB of RAM. This should be good enough but several editors do not like loading the page with large files.
 
 ## Installation
-* none, really. Just use stylesheet as is or prtial out even more.
+* none, really. Just use stylesheet as is or partial out even more.
 * Test file ("tests.html") to check usage in production.
 
 ## Contributors
