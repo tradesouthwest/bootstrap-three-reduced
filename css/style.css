@@ -1,0 +1,6 @@
+body{padding-top: 50px;}
+footer.page-footer{border-top: 1px solid #bbb;height: 30px;margin-top: 30px;padding:15px;}
+.far.fa-facebook:before{content:url(../imgs/img-fa-facebook.png);position:relative;height:20px;}
+.far.fa-google-plus:before{content:url(../imgs/img-fa-google-plus.png);position:relative;height:20px;}
+.far.fa-twitter:before{content:url(../imgs/img-fa-twitter.png);position:relative;height:20px;}
+.far.fa-linkedin:before{content:url(../imgs/img-fa-linkedin.png);position:relative;height:20px;}
