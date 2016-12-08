@@ -1,0 +1,12 @@
+Removed these selectors:
+glyphicons;
+text-colors (not text-aligns like text-justify, text-nowrap);
+blockquote-special (all but standard blockquote selectors);
+kbd;
+has- (all has-selectors, you can use .alert in place of);
+breadcrumb;
+pagination;
+pager;
+jumbotron;
+tooltip;
+popover;
