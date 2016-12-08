@@ -1,0 +1,1 @@
+.far is the current selector used
