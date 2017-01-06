@@ -30,3 +30,10 @@ Thanks Twitter Bootstrap
 ## License
 Licensed under MIT License (MIT). 
 http://opensource.org/licenses/MIT
+
+## ToDo
+- remove btn-groups
+- maybe have one .btn style and allow for user insert background
+- remove progress bars
+- remove media-direction
+
