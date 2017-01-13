@@ -2,20 +2,20 @@
 Various selectors removed from Twitter Bootstrap stylesheet to reduce page load time.
 ## Overview
 *Removed these selectors from Bootstrap 3 to reduce page load time:
--glyphicons;
--text-[selectors] (not text-aligns like text-justify, text-nowrap);
--blockquote-[special] (all but standard blockquote selectors);
--kbd;
--has-[] (all has-selectors, you can use .alert in place of);
--breadcrumb;
--pagination;
--pager;
--jumbotron;
--tooltip;
--popover;
--media-directions
--progress bars
--btn only has default and btn-link attrs. but info, success, danger, warning minimal (backgrounds only)
+* glyphicons;
+* text-[selectors] (not text-aligns like text-justify, text-nowrap);
+* blockquote-[special] (all but standard blockquote selectors);
+* kbd;
+* has-[] (all has-selectors, you can use .alert in place of);
+* breadcrumb;
+* pagination;
+* pager;
+* jumbotron;
+* tooltip;
+* popover;
+* media-directions
+* progress bars
+* btn only has default and btn-link attrs. but info, success, danger, warning minimal (backgrounds only)
 * Included images to relplace font-awesome icons
 * 4 icons created only, .png files with attributes
 
@@ -36,6 +36,3 @@ http://opensource.org/licenses/MIT
 
 ## ToDo
 - remove btn-groups
-
-
-
