@@ -10,3 +10,5 @@ pager;
 jumbotron;
 tooltip;
 popover;
+progress bars;
+media element
