@@ -3,8 +3,8 @@ Various selectors removed from Twitter Bootstrap stylesheet to reduce page load 
 ## Overview
 *Removed these selectors from Bootstrap 3 to reduce page load time:
 * glyphicons;
-* text-[selectors] (not text-aligns like text-justify, text-nowrap);
-* blockquote-[special] (all but standard blockquote selectors);
+* text-selectors (not text-aligns like text-justify, text-nowrap, etc);
+* blockquote-special (all but standard blockquote selectors);
 * kbd;
 * has-[] (all has-selectors, you can use .alert in place of);
 * breadcrumb;
