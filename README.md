@@ -13,6 +13,9 @@ Various selectors removed from Twitter Bootstrap stylesheet to reduce page load 
 -jumbotron;
 -tooltip;
 -popover;
+-media-directions
+-progress bars
+-btn only has default and btn-link attrs. but info, success, danger, warning minimal (backgrounds only)
 * Included images to relplace font-awesome icons
 * 4 icons created only, .png files with attributes
 
@@ -33,7 +36,6 @@ http://opensource.org/licenses/MIT
 
 ## ToDo
 - remove btn-groups
-- maybe have one .btn style and allow for user insert background
-- remove progress bars
-- remove media-direction
+
+
 
